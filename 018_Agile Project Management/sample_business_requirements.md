@@ -2,28 +2,46 @@
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+Web application with the purpose of connecting like-minded students for collaborative projects. The entirety of this document will outline the project as a whole. 
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+This project will be a leap in the right direction for easy collaboration for students. After project completion, students will be able to easily connect with other like-minded students with the goal of working together on a project. The experience of collaborating with others will ensure students have the skill set required for real-world application after they graduate. 
+
+Within this project students will be able to log into the web application and post an idea for a project. Others are able to search and find these posted projects, once they find something they're interested in the two students can connect with a simple button. Once the two students have connected they have the ability to chat over the web application and discuss working together.  
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+After graduation, it's found that students have acquired the knowledge that they need in order to find a position in their field. However, many students have reported feeling underprepared in the sense of collaborating with others with the common goal in mind. This project was developed in the hopes of filling that gap.
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+Each student has their own login. Each user has the ability to post a project and search for projects. When searching for a project, users are able to connect with the project poster. Once two users match for a project, a chat is opened where students can discuss more about the project.
+
+This project does not have functionality to continue project development. The sole purpose of this project is connecting two like-minded students so that they have the ability to work together.
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
+Login Capabilities: 
+The login feature of this project needs to ensure secure logins. 
 
+User Profile: 
+Once a user has logged in, the user's profile should automatically be loaded. In this profile screen the user should see their created projects, a Chat button to view Chats with other users, an option to create a project, an Explore button to view recently created projects, and a search bar to search for specific projects. 
+
+Search Projects:
+When a user types something into the Search bar, the application will find full and partial matches for posted projects that match keywords entered into Search bar.
+
+Post Projects:
+Users have ability to post a project idea. This capability includes a text box for project title, text box for project details, a submit button, and an edit button.
+
+Chat with Matched Students:
+These chats are automatically created when two users match on a project. The chat will allow users to discuss project details.
 
 ## Personnel requirements
 
 *In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+
+
 
 ## Delivery schedule
 
