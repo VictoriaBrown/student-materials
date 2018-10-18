@@ -39,26 +39,24 @@ These chats are automatically created when two users match on a project. The cha
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
-
+The composition of the team that will be working on this project are the following: four developers, one architect, and two quality assurance testers. This is what is recommended for the project, but with unclear deadline for project completion, this can be renegotiated.
 
 
 ## Delivery schedule
 
 *It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
 
-## Other requirements
+The delivery of progress whilst developing this project will be separated into different phases. Below shows more detail about each specific phase.
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+The first phase is to be the Design Phase. During this phase we will achieve an in-depth document outlining the architectual specifications, the user-interface designs, and hardware specifications. At this time, the architect and developers will negotiate the best approach to satisfy the business requirements. A lot of time will be spent cycling back and forth and revising the scope and approach.
 
-## Assumptions
+After completion of the Design Phase the project will move into Implementation Phase. During this phase is when the actual code for the project will be written. The software team will take the business requirements and specifications and write the code for the web application.
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+Following the Design Phase is the Verification Phase. The purpose of this phase is to run a series of quality assurance tests to ensure that the project is working as it was designed and that all the business requirements have been met. The team of quality assurance testers will work within this phase. At the very end of this phase is when the final project will be released to the public.
 
-## Limitations
-
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+Lastly is the Maintenance Phase. During this phase users will be using the finished web application. As problems are found, changes are made to the project.
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+Every project has its risks. One of the main risks of this project is going to be creating buzz around the project so that students are going to want to use it. We have planned to go around to local colleges and spread the word through bulletin boards about our web project. We also plan on creating a Facebook Page and posting info about it in tech web articles. In order to mitigate this risk, we are going to promote our web app through avenues that are available.
+ 
